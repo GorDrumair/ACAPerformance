@@ -1,0 +1,14 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\003-Favorite Things App\bin\Debug\net8.0\Favorite Things App.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\003-Favorite Things App\bin\Debug\net8.0\Favorite Things App.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\003-Favorite Things App\bin\Debug\net8.0\Favorite Things App.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\003-Favorite Things App\bin\Debug\net8.0\Favorite Things App.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\003-Favorite Things App\bin\Debug\net8.0\Favorite Things App.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\003-Favorite Things App\obj\Debug\net8.0\Favorite Things App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\003-Favorite Things App\obj\Debug\net8.0\Favorite Things App.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\003-Favorite Things App\obj\Debug\net8.0\Favorite Things App.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\003-Favorite Things App\obj\Debug\net8.0\Favorite Things App.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\003-Favorite Things App\obj\Debug\net8.0\Favorite Things App.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\003-Favorite Things App\obj\Debug\net8.0\refint\Favorite Things App.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\003-Favorite Things App\obj\Debug\net8.0\Favorite Things App.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\003-Favorite Things App\obj\Debug\net8.0\Favorite Things App.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\003-Favorite Things App\obj\Debug\net8.0\ref\Favorite Things App.dll

@@ -1,0 +1,14 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\001-Hello Application\bin\Debug\net8.0\Hello Application.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\001-Hello Application\bin\Debug\net8.0\Hello Application.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\001-Hello Application\bin\Debug\net8.0\Hello Application.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\001-Hello Application\bin\Debug\net8.0\Hello Application.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\001-Hello Application\bin\Debug\net8.0\Hello Application.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\001-Hello Application\obj\Debug\net8.0\Hello Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\001-Hello Application\obj\Debug\net8.0\Hello Application.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\001-Hello Application\obj\Debug\net8.0\Hello Application.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\001-Hello Application\obj\Debug\net8.0\Hello Application.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\001-Hello Application\obj\Debug\net8.0\Hello Application.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\001-Hello Application\obj\Debug\net8.0\refint\Hello Application.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\001-Hello Application\obj\Debug\net8.0\Hello Application.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\001-Hello Application\obj\Debug\net8.0\Hello Application.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\001-Hello Application\obj\Debug\net8.0\ref\Hello Application.dll

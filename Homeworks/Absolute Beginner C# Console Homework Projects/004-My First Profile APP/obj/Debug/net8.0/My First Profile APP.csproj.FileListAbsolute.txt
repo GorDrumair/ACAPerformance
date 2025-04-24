@@ -1,0 +1,14 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\004-My First Profile APP\obj\Debug\net8.0\My First Profile APP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\004-My First Profile APP\obj\Debug\net8.0\My First Profile APP.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\004-My First Profile APP\obj\Debug\net8.0\My First Profile APP.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\004-My First Profile APP\obj\Debug\net8.0\My First Profile APP.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\004-My First Profile APP\bin\Debug\net8.0\My First Profile APP.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\004-My First Profile APP\bin\Debug\net8.0\My First Profile APP.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\004-My First Profile APP\bin\Debug\net8.0\My First Profile APP.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\004-My First Profile APP\bin\Debug\net8.0\My First Profile APP.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\004-My First Profile APP\bin\Debug\net8.0\My First Profile APP.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\004-My First Profile APP\obj\Debug\net8.0\My First Profile APP.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\004-My First Profile APP\obj\Debug\net8.0\refint\My First Profile APP.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\004-My First Profile APP\obj\Debug\net8.0\My First Profile APP.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\004-My First Profile APP\obj\Debug\net8.0\My First Profile APP.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\004-My First Profile APP\obj\Debug\net8.0\ref\My First Profile APP.dll

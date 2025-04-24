@@ -1,0 +1,14 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\002-Simple Math Practice\obj\Debug\net8.0\Simple Math Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\002-Simple Math Practice\obj\Debug\net8.0\Simple Math Practice.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\002-Simple Math Practice\obj\Debug\net8.0\Simple Math Practice.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\002-Simple Math Practice\obj\Debug\net8.0\Simple Math Practice.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\002-Simple Math Practice\bin\Debug\net8.0\Simple Math Practice.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\002-Simple Math Practice\bin\Debug\net8.0\Simple Math Practice.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\002-Simple Math Practice\bin\Debug\net8.0\Simple Math Practice.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\002-Simple Math Practice\bin\Debug\net8.0\Simple Math Practice.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\002-Simple Math Practice\bin\Debug\net8.0\Simple Math Practice.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\002-Simple Math Practice\obj\Debug\net8.0\Simple Math Practice.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\002-Simple Math Practice\obj\Debug\net8.0\refint\Simple Math Practice.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\002-Simple Math Practice\obj\Debug\net8.0\Simple Math Practice.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\002-Simple Math Practice\obj\Debug\net8.0\Simple Math Practice.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Absolute Beginner C# Console Homework Projects\002-Simple Math Practice\obj\Debug\net8.0\ref\Simple Math Practice.dll
