@@ -2,15 +2,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005-Basic Math Convertor", "Basic Math Convertor\Basic Math Convertor.csproj", "{3BE5FB18-7297-3CD5-EA77-9667A666023D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005-Basic Math Convertor", "005-Basic Math Convertor\Basic Math Convertor.csproj", "{3BE5FB18-7297-3CD5-EA77-9667A666023D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-Favorite Things App", "Favorite Things App\Favorite Things App.csproj", "{FC1F2443-9C2E-5624-C94B-AD510F0D6C1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-Favorite Things App", "003-Favorite Things App\Favorite Things App.csproj", "{FC1F2443-9C2E-5624-C94B-AD510F0D6C1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-Hello Application", "Hello Application\Hello Application.csproj", "{E380B16B-E251-2494-89C6-76C13AC9D308}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-Hello Application", "001-Hello Application\Hello Application.csproj", "{E380B16B-E251-2494-89C6-76C13AC9D308}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004-My First Profile APP", "My First Profile APP\My First Profile APP.csproj", "{77F135CB-79A8-3931-EDB2-9728BCE4B1CA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004-My First Profile APP", "004-My First Profile APP\My First Profile APP.csproj", "{77F135CB-79A8-3931-EDB2-9728BCE4B1CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-Simple Math Practice", "Simple Math Practice\Simple Math Practice.csproj", "{ABFBDDE2-AA05-DCED-E981-23833AA61A48}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-Simple Math Practice", "002-Simple Math Practice\Simple Math Practice.csproj", "{ABFBDDE2-AA05-DCED-E981-23833AA61A48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
