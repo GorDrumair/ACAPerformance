@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\002-First vs Last Letter (Alphabet Fight)\bin\Debug\net8.0\002-First vs Last Letter (Alphabet Fight).exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\002-First vs Last Letter (Alphabet Fight)\bin\Debug\net8.0\002-First vs Last Letter (Alphabet Fight).deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\002-First vs Last Letter (Alphabet Fight)\bin\Debug\net8.0\002-First vs Last Letter (Alphabet Fight).runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\002-First vs Last Letter (Alphabet Fight)\bin\Debug\net8.0\002-First vs Last Letter (Alphabet Fight).dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\002-First vs Last Letter (Alphabet Fight)\bin\Debug\net8.0\002-First vs Last Letter (Alphabet Fight).pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\002-First vs Last Letter (Alphabet Fight)\obj\Debug\net8.0\002-First vs Last Letter (Alphabet Fight).GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\002-First vs Last Letter (Alphabet Fight)\obj\Debug\net8.0\002-First vs Last Letter (Alphabet Fight).AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\002-First vs Last Letter (Alphabet Fight)\obj\Debug\net8.0\002-First vs Last Letter (Alphabet Fight).AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\002-First vs Last Letter (Alphabet Fight)\obj\Debug\net8.0\002-First vs Last Letter (Alphabet Fight).csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\002-First vs Last Letter (Alphabet Fight)\obj\Debug\net8.0\002-First vs Last Letter (Alphabet Fight).sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\002-First vs Last Letter (Alphabet Fight)\obj\Debug\net8.0\002-First vs Last Letter (Alphabet Fight).dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\002-First vs Last Letter (Alphabet Fight)\obj\Debug\net8.0\refint\002-First vs Last Letter (Alphabet Fight).dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\002-First vs Last Letter (Alphabet Fight)\obj\Debug\net8.0\002-First vs Last Letter (Alphabet Fight).pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\002-First vs Last Letter (Alphabet Fight)\obj\Debug\net8.0\002-First vs Last Letter (Alphabet Fight).genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\002-First vs Last Letter (Alphabet Fight)\obj\Debug\net8.0\ref\002-First vs Last Letter (Alphabet Fight).dll

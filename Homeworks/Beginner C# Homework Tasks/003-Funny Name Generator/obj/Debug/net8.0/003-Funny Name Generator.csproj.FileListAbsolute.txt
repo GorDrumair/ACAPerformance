@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\003-Funny Name Generator\bin\Debug\net8.0\003-Funny Name Generator.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\003-Funny Name Generator\bin\Debug\net8.0\003-Funny Name Generator.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\003-Funny Name Generator\bin\Debug\net8.0\003-Funny Name Generator.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\003-Funny Name Generator\bin\Debug\net8.0\003-Funny Name Generator.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\003-Funny Name Generator\bin\Debug\net8.0\003-Funny Name Generator.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\003-Funny Name Generator\obj\Debug\net8.0\003-Funny Name Generator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\003-Funny Name Generator\obj\Debug\net8.0\003-Funny Name Generator.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\003-Funny Name Generator\obj\Debug\net8.0\003-Funny Name Generator.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\003-Funny Name Generator\obj\Debug\net8.0\003-Funny Name Generator.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\003-Funny Name Generator\obj\Debug\net8.0\003-Funny Name Generator.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\003-Funny Name Generator\obj\Debug\net8.0\003-Funny Name Generator.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\003-Funny Name Generator\obj\Debug\net8.0\refint\003-Funny Name Generator.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\003-Funny Name Generator\obj\Debug\net8.0\003-Funny Name Generator.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\003-Funny Name Generator\obj\Debug\net8.0\003-Funny Name Generator.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\003-Funny Name Generator\obj\Debug\net8.0\ref\003-Funny Name Generator.dll

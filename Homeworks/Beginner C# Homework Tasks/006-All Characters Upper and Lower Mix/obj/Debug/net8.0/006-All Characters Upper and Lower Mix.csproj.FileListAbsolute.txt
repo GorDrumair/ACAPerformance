@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\006-All Characters Upper and Lower Mix\bin\Debug\net8.0\006-All Characters Upper and Lower Mix.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\006-All Characters Upper and Lower Mix\bin\Debug\net8.0\006-All Characters Upper and Lower Mix.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\006-All Characters Upper and Lower Mix\bin\Debug\net8.0\006-All Characters Upper and Lower Mix.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\006-All Characters Upper and Lower Mix\bin\Debug\net8.0\006-All Characters Upper and Lower Mix.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\006-All Characters Upper and Lower Mix\bin\Debug\net8.0\006-All Characters Upper and Lower Mix.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\006-All Characters Upper and Lower Mix\obj\Debug\net8.0\006-All Characters Upper and Lower Mix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\006-All Characters Upper and Lower Mix\obj\Debug\net8.0\006-All Characters Upper and Lower Mix.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\006-All Characters Upper and Lower Mix\obj\Debug\net8.0\006-All Characters Upper and Lower Mix.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\006-All Characters Upper and Lower Mix\obj\Debug\net8.0\006-All Characters Upper and Lower Mix.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\006-All Characters Upper and Lower Mix\obj\Debug\net8.0\006-All Characters Upper and Lower Mix.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\006-All Characters Upper and Lower Mix\obj\Debug\net8.0\006-All Characters Upper and Lower Mix.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\006-All Characters Upper and Lower Mix\obj\Debug\net8.0\refint\006-All Characters Upper and Lower Mix.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\006-All Characters Upper and Lower Mix\obj\Debug\net8.0\006-All Characters Upper and Lower Mix.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\006-All Characters Upper and Lower Mix\obj\Debug\net8.0\006-All Characters Upper and Lower Mix.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\006-All Characters Upper and Lower Mix\obj\Debug\net8.0\ref\006-All Characters Upper and Lower Mix.dll

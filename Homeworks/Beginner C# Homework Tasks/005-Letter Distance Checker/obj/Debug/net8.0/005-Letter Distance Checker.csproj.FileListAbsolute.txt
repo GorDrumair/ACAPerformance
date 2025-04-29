@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\005-Letter Distance Checker\bin\Debug\net8.0\005-Letter Distance Checker.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\005-Letter Distance Checker\bin\Debug\net8.0\005-Letter Distance Checker.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\005-Letter Distance Checker\bin\Debug\net8.0\005-Letter Distance Checker.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\005-Letter Distance Checker\bin\Debug\net8.0\005-Letter Distance Checker.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\005-Letter Distance Checker\bin\Debug\net8.0\005-Letter Distance Checker.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\005-Letter Distance Checker\obj\Debug\net8.0\005-Letter Distance Checker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\005-Letter Distance Checker\obj\Debug\net8.0\005-Letter Distance Checker.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\005-Letter Distance Checker\obj\Debug\net8.0\005-Letter Distance Checker.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\005-Letter Distance Checker\obj\Debug\net8.0\005-Letter Distance Checker.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\005-Letter Distance Checker\obj\Debug\net8.0\005-Letter Distance Checker.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\005-Letter Distance Checker\obj\Debug\net8.0\005-Letter Distance Checker.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\005-Letter Distance Checker\obj\Debug\net8.0\refint\005-Letter Distance Checker.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\005-Letter Distance Checker\obj\Debug\net8.0\005-Letter Distance Checker.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\005-Letter Distance Checker\obj\Debug\net8.0\005-Letter Distance Checker.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\005-Letter Distance Checker\obj\Debug\net8.0\ref\005-Letter Distance Checker.dll

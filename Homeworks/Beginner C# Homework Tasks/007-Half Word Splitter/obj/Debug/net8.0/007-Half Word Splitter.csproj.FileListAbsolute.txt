@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\007-Half Word Splitter\bin\Debug\net8.0\007-Half Word Splitter.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\007-Half Word Splitter\bin\Debug\net8.0\007-Half Word Splitter.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\007-Half Word Splitter\bin\Debug\net8.0\007-Half Word Splitter.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\007-Half Word Splitter\bin\Debug\net8.0\007-Half Word Splitter.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\007-Half Word Splitter\bin\Debug\net8.0\007-Half Word Splitter.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\007-Half Word Splitter\obj\Debug\net8.0\007-Half Word Splitter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\007-Half Word Splitter\obj\Debug\net8.0\007-Half Word Splitter.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\007-Half Word Splitter\obj\Debug\net8.0\007-Half Word Splitter.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\007-Half Word Splitter\obj\Debug\net8.0\007-Half Word Splitter.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\007-Half Word Splitter\obj\Debug\net8.0\007-Half Word Splitter.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\007-Half Word Splitter\obj\Debug\net8.0\007-Half Word Splitter.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\007-Half Word Splitter\obj\Debug\net8.0\refint\007-Half Word Splitter.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\007-Half Word Splitter\obj\Debug\net8.0\007-Half Word Splitter.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\007-Half Word Splitter\obj\Debug\net8.0\007-Half Word Splitter.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\007-Half Word Splitter\obj\Debug\net8.0\ref\007-Half Word Splitter.dll

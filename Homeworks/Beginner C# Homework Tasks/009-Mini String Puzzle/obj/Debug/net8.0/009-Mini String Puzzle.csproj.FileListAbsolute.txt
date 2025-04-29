@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\009-Mini String Puzzle\bin\Debug\net8.0\009-Mini String Puzzle.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\009-Mini String Puzzle\bin\Debug\net8.0\009-Mini String Puzzle.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\009-Mini String Puzzle\bin\Debug\net8.0\009-Mini String Puzzle.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\009-Mini String Puzzle\bin\Debug\net8.0\009-Mini String Puzzle.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\009-Mini String Puzzle\bin\Debug\net8.0\009-Mini String Puzzle.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\009-Mini String Puzzle\obj\Debug\net8.0\009-Mini String Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\009-Mini String Puzzle\obj\Debug\net8.0\009-Mini String Puzzle.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\009-Mini String Puzzle\obj\Debug\net8.0\009-Mini String Puzzle.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\009-Mini String Puzzle\obj\Debug\net8.0\009-Mini String Puzzle.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\009-Mini String Puzzle\obj\Debug\net8.0\009-Mini String Puzzle.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\009-Mini String Puzzle\obj\Debug\net8.0\009-Mini String Puzzle.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\009-Mini String Puzzle\obj\Debug\net8.0\refint\009-Mini String Puzzle.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\009-Mini String Puzzle\obj\Debug\net8.0\009-Mini String Puzzle.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\009-Mini String Puzzle\obj\Debug\net8.0\009-Mini String Puzzle.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\009-Mini String Puzzle\obj\Debug\net8.0\ref\009-Mini String Puzzle.dll

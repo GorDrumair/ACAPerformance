@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\004-Character Picker\bin\Debug\net8.0\004-Character Picker.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\004-Character Picker\bin\Debug\net8.0\004-Character Picker.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\004-Character Picker\bin\Debug\net8.0\004-Character Picker.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\004-Character Picker\bin\Debug\net8.0\004-Character Picker.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\004-Character Picker\bin\Debug\net8.0\004-Character Picker.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\004-Character Picker\obj\Debug\net8.0\004-Character Picker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\004-Character Picker\obj\Debug\net8.0\004-Character Picker.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\004-Character Picker\obj\Debug\net8.0\004-Character Picker.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\004-Character Picker\obj\Debug\net8.0\004-Character Picker.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\004-Character Picker\obj\Debug\net8.0\004-Character Picker.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\004-Character Picker\obj\Debug\net8.0\004-Character Picker.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\004-Character Picker\obj\Debug\net8.0\refint\004-Character Picker.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\004-Character Picker\obj\Debug\net8.0\004-Character Picker.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\004-Character Picker\obj\Debug\net8.0\004-Character Picker.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\004-Character Picker\obj\Debug\net8.0\ref\004-Character Picker.dll

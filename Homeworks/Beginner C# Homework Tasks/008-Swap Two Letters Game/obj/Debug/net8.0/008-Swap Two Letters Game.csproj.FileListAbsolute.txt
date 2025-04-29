@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\008-Swap Two Letters Game\bin\Debug\net8.0\008-Swap Two Letters Game.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\008-Swap Two Letters Game\bin\Debug\net8.0\008-Swap Two Letters Game.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\008-Swap Two Letters Game\bin\Debug\net8.0\008-Swap Two Letters Game.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\008-Swap Two Letters Game\bin\Debug\net8.0\008-Swap Two Letters Game.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\008-Swap Two Letters Game\bin\Debug\net8.0\008-Swap Two Letters Game.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\008-Swap Two Letters Game\obj\Debug\net8.0\008-Swap Two Letters Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\008-Swap Two Letters Game\obj\Debug\net8.0\008-Swap Two Letters Game.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\008-Swap Two Letters Game\obj\Debug\net8.0\008-Swap Two Letters Game.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\008-Swap Two Letters Game\obj\Debug\net8.0\008-Swap Two Letters Game.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\008-Swap Two Letters Game\obj\Debug\net8.0\008-Swap Two Letters Game.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\008-Swap Two Letters Game\obj\Debug\net8.0\008-Swap Two Letters Game.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\008-Swap Two Letters Game\obj\Debug\net8.0\refint\008-Swap Two Letters Game.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\008-Swap Two Letters Game\obj\Debug\net8.0\008-Swap Two Letters Game.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\008-Swap Two Letters Game\obj\Debug\net8.0\008-Swap Two Letters Game.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Beginner C# Homework Tasks\008-Swap Two Letters Game\obj\Debug\net8.0\ref\008-Swap Two Letters Game.dll
