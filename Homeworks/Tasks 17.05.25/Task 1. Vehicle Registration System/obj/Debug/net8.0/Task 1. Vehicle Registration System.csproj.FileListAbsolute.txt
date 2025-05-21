@@ -1,0 +1,15 @@
+d:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 1. Vehicle Registration System\bin\Debug\net8.0\Task 1. Vehicle Registration System.exe
+d:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 1. Vehicle Registration System\bin\Debug\net8.0\Task 1. Vehicle Registration System.deps.json
+d:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 1. Vehicle Registration System\bin\Debug\net8.0\Task 1. Vehicle Registration System.runtimeconfig.json
+d:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 1. Vehicle Registration System\bin\Debug\net8.0\Task 1. Vehicle Registration System.dll
+d:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 1. Vehicle Registration System\bin\Debug\net8.0\Task 1. Vehicle Registration System.pdb
+d:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 1. Vehicle Registration System\obj\Debug\net8.0\Task 1. Vehicle Registration System.GeneratedMSBuildEditorConfig.editorconfig
+d:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 1. Vehicle Registration System\obj\Debug\net8.0\Task 1. Vehicle Registration System.AssemblyInfoInputs.cache
+d:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 1. Vehicle Registration System\obj\Debug\net8.0\Task 1. Vehicle Registration System.AssemblyInfo.cs
+d:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 1. Vehicle Registration System\obj\Debug\net8.0\Task 1. Vehicle Registration System.csproj.CoreCompileInputs.cache
+d:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 1. Vehicle Registration System\obj\Debug\net8.0\Task 1. Vehicle Registration System.sourcelink.json
+d:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 1. Vehicle Registration System\obj\Debug\net8.0\Task 1. Vehicle Registration System.dll
+d:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 1. Vehicle Registration System\obj\Debug\net8.0\refint\Task 1. Vehicle Registration System.dll
+d:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 1. Vehicle Registration System\obj\Debug\net8.0\Task 1. Vehicle Registration System.pdb
+d:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 1. Vehicle Registration System\obj\Debug\net8.0\Task 1. Vehicle Registration System.genruntimeconfig.cache
+d:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 1. Vehicle Registration System\obj\Debug\net8.0\ref\Task 1. Vehicle Registration System.dll

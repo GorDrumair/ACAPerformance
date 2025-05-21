@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 4. Work Shift Scheduler\bin\Debug\net8.0\Task 4. Work Shift Scheduler.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 4. Work Shift Scheduler\bin\Debug\net8.0\Task 4. Work Shift Scheduler.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 4. Work Shift Scheduler\bin\Debug\net8.0\Task 4. Work Shift Scheduler.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 4. Work Shift Scheduler\bin\Debug\net8.0\Task 4. Work Shift Scheduler.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 4. Work Shift Scheduler\bin\Debug\net8.0\Task 4. Work Shift Scheduler.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 4. Work Shift Scheduler\obj\Debug\net8.0\Task 4. Work Shift Scheduler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 4. Work Shift Scheduler\obj\Debug\net8.0\Task 4. Work Shift Scheduler.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 4. Work Shift Scheduler\obj\Debug\net8.0\Task 4. Work Shift Scheduler.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 4. Work Shift Scheduler\obj\Debug\net8.0\Task 4. Work Shift Scheduler.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 4. Work Shift Scheduler\obj\Debug\net8.0\Task 4. Work Shift Scheduler.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 4. Work Shift Scheduler\obj\Debug\net8.0\Task 4. Work Shift Scheduler.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 4. Work Shift Scheduler\obj\Debug\net8.0\refint\Task 4. Work Shift Scheduler.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 4. Work Shift Scheduler\obj\Debug\net8.0\Task 4. Work Shift Scheduler.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 4. Work Shift Scheduler\obj\Debug\net8.0\Task 4. Work Shift Scheduler.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 4. Work Shift Scheduler\obj\Debug\net8.0\ref\Task 4. Work Shift Scheduler.dll

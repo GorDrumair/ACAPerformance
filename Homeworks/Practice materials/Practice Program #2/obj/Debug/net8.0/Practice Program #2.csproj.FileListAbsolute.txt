@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program #2\bin\Debug\net8.0\Practice Program #2.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program #2\bin\Debug\net8.0\Practice Program #2.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program #2\bin\Debug\net8.0\Practice Program #2.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program #2\bin\Debug\net8.0\Practice Program #2.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program #2\bin\Debug\net8.0\Practice Program #2.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program #2\obj\Debug\net8.0\Practice Program #2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program #2\obj\Debug\net8.0\Practice Program #2.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program #2\obj\Debug\net8.0\Practice Program #2.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program #2\obj\Debug\net8.0\Practice Program #2.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program #2\obj\Debug\net8.0\Practice Program #2.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program #2\obj\Debug\net8.0\Practice Program #2.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program #2\obj\Debug\net8.0\refint\Practice Program #2.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program #2\obj\Debug\net8.0\Practice Program #2.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program #2\obj\Debug\net8.0\Practice Program #2.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program #2\obj\Debug\net8.0\ref\Practice Program #2.dll

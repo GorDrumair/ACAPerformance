@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\001-Fuel Pump Simulation\bin\Debug\net8.0\001-Fuel Pump Simulation.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\001-Fuel Pump Simulation\bin\Debug\net8.0\001-Fuel Pump Simulation.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\001-Fuel Pump Simulation\bin\Debug\net8.0\001-Fuel Pump Simulation.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\001-Fuel Pump Simulation\bin\Debug\net8.0\001-Fuel Pump Simulation.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\001-Fuel Pump Simulation\bin\Debug\net8.0\001-Fuel Pump Simulation.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\001-Fuel Pump Simulation\obj\Debug\net8.0\001-Fuel Pump Simulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\001-Fuel Pump Simulation\obj\Debug\net8.0\001-Fuel Pump Simulation.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\001-Fuel Pump Simulation\obj\Debug\net8.0\001-Fuel Pump Simulation.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\001-Fuel Pump Simulation\obj\Debug\net8.0\001-Fuel Pump Simulation.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\001-Fuel Pump Simulation\obj\Debug\net8.0\001-Fuel Pump Simulation.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\001-Fuel Pump Simulation\obj\Debug\net8.0\001-Fuel Pump Simulation.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\001-Fuel Pump Simulation\obj\Debug\net8.0\refint\001-Fuel Pump Simulation.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\001-Fuel Pump Simulation\obj\Debug\net8.0\001-Fuel Pump Simulation.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\001-Fuel Pump Simulation\obj\Debug\net8.0\001-Fuel Pump Simulation.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\001-Fuel Pump Simulation\obj\Debug\net8.0\ref\001-Fuel Pump Simulation.dll

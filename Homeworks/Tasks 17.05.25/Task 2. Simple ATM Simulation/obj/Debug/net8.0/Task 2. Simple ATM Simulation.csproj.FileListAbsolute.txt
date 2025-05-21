@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 2. Simple ATM Simulation\bin\Debug\net8.0\Task 2. Simple ATM Simulation.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 2. Simple ATM Simulation\bin\Debug\net8.0\Task 2. Simple ATM Simulation.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 2. Simple ATM Simulation\bin\Debug\net8.0\Task 2. Simple ATM Simulation.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 2. Simple ATM Simulation\bin\Debug\net8.0\Task 2. Simple ATM Simulation.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 2. Simple ATM Simulation\bin\Debug\net8.0\Task 2. Simple ATM Simulation.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 2. Simple ATM Simulation\obj\Debug\net8.0\Task 2. Simple ATM Simulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 2. Simple ATM Simulation\obj\Debug\net8.0\Task 2. Simple ATM Simulation.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 2. Simple ATM Simulation\obj\Debug\net8.0\Task 2. Simple ATM Simulation.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 2. Simple ATM Simulation\obj\Debug\net8.0\Task 2. Simple ATM Simulation.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 2. Simple ATM Simulation\obj\Debug\net8.0\Task 2. Simple ATM Simulation.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 2. Simple ATM Simulation\obj\Debug\net8.0\Task 2. Simple ATM Simulation.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 2. Simple ATM Simulation\obj\Debug\net8.0\refint\Task 2. Simple ATM Simulation.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 2. Simple ATM Simulation\obj\Debug\net8.0\Task 2. Simple ATM Simulation.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 2. Simple ATM Simulation\obj\Debug\net8.0\Task 2. Simple ATM Simulation.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 2. Simple ATM Simulation\obj\Debug\net8.0\ref\Task 2. Simple ATM Simulation.dll

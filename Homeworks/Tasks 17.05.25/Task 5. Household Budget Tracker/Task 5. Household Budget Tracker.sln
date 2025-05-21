@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 5. Household Budget Tracker", "Task 5. Household Budget Tracker.csproj", "{68DB9ED0-33BF-2A5A-9CE3-0FD63567EA44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68DB9ED0-33BF-2A5A-9CE3-0FD63567EA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68DB9ED0-33BF-2A5A-9CE3-0FD63567EA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68DB9ED0-33BF-2A5A-9CE3-0FD63567EA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68DB9ED0-33BF-2A5A-9CE3-0FD63567EA44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25E94575-0BE8-4B45-8028-FBC84EB35E44}
+	EndGlobalSection
+EndGlobal

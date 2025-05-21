@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 5. Household Budget Tracker\bin\Debug\net8.0\Task 5. Household Budget Tracker.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 5. Household Budget Tracker\bin\Debug\net8.0\Task 5. Household Budget Tracker.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 5. Household Budget Tracker\bin\Debug\net8.0\Task 5. Household Budget Tracker.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 5. Household Budget Tracker\bin\Debug\net8.0\Task 5. Household Budget Tracker.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 5. Household Budget Tracker\bin\Debug\net8.0\Task 5. Household Budget Tracker.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 5. Household Budget Tracker\obj\Debug\net8.0\Task 5. Household Budget Tracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 5. Household Budget Tracker\obj\Debug\net8.0\Task 5. Household Budget Tracker.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 5. Household Budget Tracker\obj\Debug\net8.0\Task 5. Household Budget Tracker.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 5. Household Budget Tracker\obj\Debug\net8.0\Task 5. Household Budget Tracker.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 5. Household Budget Tracker\obj\Debug\net8.0\Task 5. Household Budget Tracker.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 5. Household Budget Tracker\obj\Debug\net8.0\Task 5. Household Budget Tracker.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 5. Household Budget Tracker\obj\Debug\net8.0\refint\Task 5. Household Budget Tracker.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 5. Household Budget Tracker\obj\Debug\net8.0\Task 5. Household Budget Tracker.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 5. Household Budget Tracker\obj\Debug\net8.0\Task 5. Household Budget Tracker.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Tasks 17.05.25\Task 5. Household Budget Tracker\obj\Debug\net8.0\ref\Task 5. Household Budget Tracker.dll

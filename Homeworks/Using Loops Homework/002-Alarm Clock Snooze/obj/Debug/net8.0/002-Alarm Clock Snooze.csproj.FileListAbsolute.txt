@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\002-Alarm Clock Snooze\obj\Debug\net8.0\002-Alarm Clock Snooze.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\002-Alarm Clock Snooze\obj\Debug\net8.0\002-Alarm Clock Snooze.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\002-Alarm Clock Snooze\obj\Debug\net8.0\002-Alarm Clock Snooze.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\002-Alarm Clock Snooze\obj\Debug\net8.0\002-Alarm Clock Snooze.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\002-Alarm Clock Snooze\obj\Debug\net8.0\002-Alarm Clock Snooze.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\002-Alarm Clock Snooze\bin\Debug\net8.0\002-Alarm Clock Snooze.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\002-Alarm Clock Snooze\bin\Debug\net8.0\002-Alarm Clock Snooze.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\002-Alarm Clock Snooze\bin\Debug\net8.0\002-Alarm Clock Snooze.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\002-Alarm Clock Snooze\bin\Debug\net8.0\002-Alarm Clock Snooze.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\002-Alarm Clock Snooze\bin\Debug\net8.0\002-Alarm Clock Snooze.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\002-Alarm Clock Snooze\obj\Debug\net8.0\002-Alarm Clock Snooze.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\002-Alarm Clock Snooze\obj\Debug\net8.0\refint\002-Alarm Clock Snooze.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\002-Alarm Clock Snooze\obj\Debug\net8.0\002-Alarm Clock Snooze.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\002-Alarm Clock Snooze\obj\Debug\net8.0\002-Alarm Clock Snooze.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\002-Alarm Clock Snooze\obj\Debug\net8.0\ref\002-Alarm Clock Snooze.dll

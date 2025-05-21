@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program\bin\Debug\net8.0\Practice Program.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program\bin\Debug\net8.0\Practice Program.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program\bin\Debug\net8.0\Practice Program.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program\bin\Debug\net8.0\Practice Program.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program\bin\Debug\net8.0\Practice Program.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program\obj\Debug\net8.0\Practice Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program\obj\Debug\net8.0\Practice Program.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program\obj\Debug\net8.0\Practice Program.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program\obj\Debug\net8.0\Practice Program.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program\obj\Debug\net8.0\Practice Program.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program\obj\Debug\net8.0\Practice Program.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program\obj\Debug\net8.0\refint\Practice Program.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program\obj\Debug\net8.0\Practice Program.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program\obj\Debug\net8.0\Practice Program.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Practice materials\Practice Program\obj\Debug\net8.0\ref\Practice Program.dll

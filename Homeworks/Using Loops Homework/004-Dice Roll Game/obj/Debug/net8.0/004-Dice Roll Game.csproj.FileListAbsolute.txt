@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\004-Dice Roll Game\obj\Debug\net8.0\004-Dice Roll Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\004-Dice Roll Game\obj\Debug\net8.0\004-Dice Roll Game.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\004-Dice Roll Game\obj\Debug\net8.0\004-Dice Roll Game.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\004-Dice Roll Game\obj\Debug\net8.0\004-Dice Roll Game.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\004-Dice Roll Game\obj\Debug\net8.0\004-Dice Roll Game.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\004-Dice Roll Game\bin\Debug\net8.0\004-Dice Roll Game.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\004-Dice Roll Game\bin\Debug\net8.0\004-Dice Roll Game.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\004-Dice Roll Game\bin\Debug\net8.0\004-Dice Roll Game.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\004-Dice Roll Game\bin\Debug\net8.0\004-Dice Roll Game.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\004-Dice Roll Game\bin\Debug\net8.0\004-Dice Roll Game.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\004-Dice Roll Game\obj\Debug\net8.0\004-Dice Roll Game.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\004-Dice Roll Game\obj\Debug\net8.0\refint\004-Dice Roll Game.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\004-Dice Roll Game\obj\Debug\net8.0\004-Dice Roll Game.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\004-Dice Roll Game\obj\Debug\net8.0\004-Dice Roll Game.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\004-Dice Roll Game\obj\Debug\net8.0\ref\004-Dice Roll Game.dll

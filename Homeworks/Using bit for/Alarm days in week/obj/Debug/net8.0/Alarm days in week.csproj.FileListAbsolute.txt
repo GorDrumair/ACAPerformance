@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using bit for\Alarm days in week\obj\Debug\net8.0\Alarm days in week.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using bit for\Alarm days in week\obj\Debug\net8.0\Alarm days in week.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using bit for\Alarm days in week\obj\Debug\net8.0\Alarm days in week.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using bit for\Alarm days in week\obj\Debug\net8.0\Alarm days in week.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using bit for\Alarm days in week\obj\Debug\net8.0\Alarm days in week.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using bit for\Alarm days in week\bin\Debug\net8.0\Alarm days in week.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using bit for\Alarm days in week\bin\Debug\net8.0\Alarm days in week.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using bit for\Alarm days in week\bin\Debug\net8.0\Alarm days in week.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using bit for\Alarm days in week\bin\Debug\net8.0\Alarm days in week.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using bit for\Alarm days in week\bin\Debug\net8.0\Alarm days in week.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using bit for\Alarm days in week\obj\Debug\net8.0\Alarm days in week.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using bit for\Alarm days in week\obj\Debug\net8.0\refint\Alarm days in week.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using bit for\Alarm days in week\obj\Debug\net8.0\Alarm days in week.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using bit for\Alarm days in week\obj\Debug\net8.0\Alarm days in week.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using bit for\Alarm days in week\obj\Debug\net8.0\ref\Alarm days in week.dll

@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\003-ATM PIN Entry\bin\Debug\net8.0\003-ATM PIN Entry.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\003-ATM PIN Entry\bin\Debug\net8.0\003-ATM PIN Entry.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\003-ATM PIN Entry\bin\Debug\net8.0\003-ATM PIN Entry.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\003-ATM PIN Entry\bin\Debug\net8.0\003-ATM PIN Entry.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\003-ATM PIN Entry\bin\Debug\net8.0\003-ATM PIN Entry.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\003-ATM PIN Entry\obj\Debug\net8.0\003-ATM PIN Entry.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\003-ATM PIN Entry\obj\Debug\net8.0\003-ATM PIN Entry.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\003-ATM PIN Entry\obj\Debug\net8.0\003-ATM PIN Entry.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\003-ATM PIN Entry\obj\Debug\net8.0\003-ATM PIN Entry.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\003-ATM PIN Entry\obj\Debug\net8.0\003-ATM PIN Entry.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\003-ATM PIN Entry\obj\Debug\net8.0\003-ATM PIN Entry.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\003-ATM PIN Entry\obj\Debug\net8.0\refint\003-ATM PIN Entry.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\003-ATM PIN Entry\obj\Debug\net8.0\003-ATM PIN Entry.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\003-ATM PIN Entry\obj\Debug\net8.0\003-ATM PIN Entry.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Using Loops Homework\003-ATM PIN Entry\obj\Debug\net8.0\ref\003-ATM PIN Entry.dll
