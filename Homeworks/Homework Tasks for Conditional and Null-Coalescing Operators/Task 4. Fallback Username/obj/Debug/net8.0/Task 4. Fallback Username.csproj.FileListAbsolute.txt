@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Homework Tasks for Conditional and Null-Coalescing Operators\Task 4. Fallback Username\bin\Debug\net8.0\Task 4. Fallback Username.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Homework Tasks for Conditional and Null-Coalescing Operators\Task 4. Fallback Username\bin\Debug\net8.0\Task 4. Fallback Username.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Homework Tasks for Conditional and Null-Coalescing Operators\Task 4. Fallback Username\bin\Debug\net8.0\Task 4. Fallback Username.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Homework Tasks for Conditional and Null-Coalescing Operators\Task 4. Fallback Username\bin\Debug\net8.0\Task 4. Fallback Username.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Homework Tasks for Conditional and Null-Coalescing Operators\Task 4. Fallback Username\bin\Debug\net8.0\Task 4. Fallback Username.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Homework Tasks for Conditional and Null-Coalescing Operators\Task 4. Fallback Username\obj\Debug\net8.0\Task 4. Fallback Username.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Homework Tasks for Conditional and Null-Coalescing Operators\Task 4. Fallback Username\obj\Debug\net8.0\Task 4. Fallback Username.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Homework Tasks for Conditional and Null-Coalescing Operators\Task 4. Fallback Username\obj\Debug\net8.0\Task 4. Fallback Username.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Homework Tasks for Conditional and Null-Coalescing Operators\Task 4. Fallback Username\obj\Debug\net8.0\Task 4. Fallback Username.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Homework Tasks for Conditional and Null-Coalescing Operators\Task 4. Fallback Username\obj\Debug\net8.0\Task 4. Fallback Username.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Homework Tasks for Conditional and Null-Coalescing Operators\Task 4. Fallback Username\obj\Debug\net8.0\Task 4. Fallback Username.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Homework Tasks for Conditional and Null-Coalescing Operators\Task 4. Fallback Username\obj\Debug\net8.0\refint\Task 4. Fallback Username.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Homework Tasks for Conditional and Null-Coalescing Operators\Task 4. Fallback Username\obj\Debug\net8.0\Task 4. Fallback Username.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Homework Tasks for Conditional and Null-Coalescing Operators\Task 4. Fallback Username\obj\Debug\net8.0\Task 4. Fallback Username.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Homework Tasks for Conditional and Null-Coalescing Operators\Task 4. Fallback Username\obj\Debug\net8.0\ref\Task 4. Fallback Username.dll
