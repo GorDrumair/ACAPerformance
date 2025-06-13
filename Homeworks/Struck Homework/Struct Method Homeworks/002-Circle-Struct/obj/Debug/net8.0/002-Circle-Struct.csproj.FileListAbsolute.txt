@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\002-Circle-Struct\bin\Debug\net8.0\002-Circle-Struct.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\002-Circle-Struct\bin\Debug\net8.0\002-Circle-Struct.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\002-Circle-Struct\bin\Debug\net8.0\002-Circle-Struct.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\002-Circle-Struct\bin\Debug\net8.0\002-Circle-Struct.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\002-Circle-Struct\bin\Debug\net8.0\002-Circle-Struct.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\002-Circle-Struct\obj\Debug\net8.0\002-Circle-Struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\002-Circle-Struct\obj\Debug\net8.0\002-Circle-Struct.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\002-Circle-Struct\obj\Debug\net8.0\002-Circle-Struct.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\002-Circle-Struct\obj\Debug\net8.0\002-Circle-Struct.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\002-Circle-Struct\obj\Debug\net8.0\002-Circle-Struct.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\002-Circle-Struct\obj\Debug\net8.0\002-Circle-Struct.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\002-Circle-Struct\obj\Debug\net8.0\refint\002-Circle-Struct.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\002-Circle-Struct\obj\Debug\net8.0\002-Circle-Struct.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\002-Circle-Struct\obj\Debug\net8.0\002-Circle-Struct.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\002-Circle-Struct\obj\Debug\net8.0\ref\002-Circle-Struct.dll

@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\001-Student-Struct\bin\Debug\net8.0\001-Student-Struct.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\001-Student-Struct\bin\Debug\net8.0\001-Student-Struct.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\001-Student-Struct\bin\Debug\net8.0\001-Student-Struct.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\001-Student-Struct\bin\Debug\net8.0\001-Student-Struct.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\001-Student-Struct\bin\Debug\net8.0\001-Student-Struct.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\001-Student-Struct\obj\Debug\net8.0\001-Student-Struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\001-Student-Struct\obj\Debug\net8.0\001-Student-Struct.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\001-Student-Struct\obj\Debug\net8.0\001-Student-Struct.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\001-Student-Struct\obj\Debug\net8.0\001-Student-Struct.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\001-Student-Struct\obj\Debug\net8.0\001-Student-Struct.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\001-Student-Struct\obj\Debug\net8.0\001-Student-Struct.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\001-Student-Struct\obj\Debug\net8.0\refint\001-Student-Struct.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\001-Student-Struct\obj\Debug\net8.0\001-Student-Struct.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\001-Student-Struct\obj\Debug\net8.0\001-Student-Struct.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\001-Student-Struct\obj\Debug\net8.0\ref\001-Student-Struct.dll

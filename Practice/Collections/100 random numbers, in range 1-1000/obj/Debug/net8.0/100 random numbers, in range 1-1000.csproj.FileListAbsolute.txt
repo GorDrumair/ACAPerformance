@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Practice\Collections\100 random numbers, in range 1-1000\bin\Debug\net8.0\100 random numbers, in range 1-1000.exe
+D:\Just Coding\ACA\ACAPerformance\Practice\Collections\100 random numbers, in range 1-1000\bin\Debug\net8.0\100 random numbers, in range 1-1000.deps.json
+D:\Just Coding\ACA\ACAPerformance\Practice\Collections\100 random numbers, in range 1-1000\bin\Debug\net8.0\100 random numbers, in range 1-1000.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Practice\Collections\100 random numbers, in range 1-1000\bin\Debug\net8.0\100 random numbers, in range 1-1000.dll
+D:\Just Coding\ACA\ACAPerformance\Practice\Collections\100 random numbers, in range 1-1000\bin\Debug\net8.0\100 random numbers, in range 1-1000.pdb
+D:\Just Coding\ACA\ACAPerformance\Practice\Collections\100 random numbers, in range 1-1000\obj\Debug\net8.0\100 random numbers, in range 1-1000.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Practice\Collections\100 random numbers, in range 1-1000\obj\Debug\net8.0\100 random numbers, in range 1-1000.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Practice\Collections\100 random numbers, in range 1-1000\obj\Debug\net8.0\100 random numbers, in range 1-1000.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Practice\Collections\100 random numbers, in range 1-1000\obj\Debug\net8.0\100 random numbers, in range 1-1000.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Practice\Collections\100 random numbers, in range 1-1000\obj\Debug\net8.0\100 random numbers, in range 1-1000.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Practice\Collections\100 random numbers, in range 1-1000\obj\Debug\net8.0\100 random numbers, in range 1-1000.dll
+D:\Just Coding\ACA\ACAPerformance\Practice\Collections\100 random numbers, in range 1-1000\obj\Debug\net8.0\refint\100 random numbers, in range 1-1000.dll
+D:\Just Coding\ACA\ACAPerformance\Practice\Collections\100 random numbers, in range 1-1000\obj\Debug\net8.0\100 random numbers, in range 1-1000.pdb
+D:\Just Coding\ACA\ACAPerformance\Practice\Collections\100 random numbers, in range 1-1000\obj\Debug\net8.0\100 random numbers, in range 1-1000.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Practice\Collections\100 random numbers, in range 1-1000\obj\Debug\net8.0\ref\100 random numbers, in range 1-1000.dll

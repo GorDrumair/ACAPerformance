@@ -27,5 +27,11 @@ class Program
         }
 
         arrayAvarge = arraySum / array.Length;
+
+
+        Console.WriteLine($"Max Value: {arrayMaxValue}");
+        Console.WriteLine($"Min Value: {arrayMinValue}");
+        Console.WriteLine($"Sum: {arraySum}");
+        Console.WriteLine($"Avarge: {arrayAvarge}");
     }   
 }

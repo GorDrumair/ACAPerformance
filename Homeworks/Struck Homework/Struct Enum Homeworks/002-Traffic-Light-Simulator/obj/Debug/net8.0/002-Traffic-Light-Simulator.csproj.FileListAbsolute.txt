@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\002-Traffic-Light-Simulator\bin\Debug\net8.0\002-Traffic-Light-Simulator.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\002-Traffic-Light-Simulator\bin\Debug\net8.0\002-Traffic-Light-Simulator.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\002-Traffic-Light-Simulator\bin\Debug\net8.0\002-Traffic-Light-Simulator.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\002-Traffic-Light-Simulator\bin\Debug\net8.0\002-Traffic-Light-Simulator.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\002-Traffic-Light-Simulator\bin\Debug\net8.0\002-Traffic-Light-Simulator.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\002-Traffic-Light-Simulator\obj\Debug\net8.0\002-Traffic-Light-Simulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\002-Traffic-Light-Simulator\obj\Debug\net8.0\002-Traffic-Light-Simulator.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\002-Traffic-Light-Simulator\obj\Debug\net8.0\002-Traffic-Light-Simulator.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\002-Traffic-Light-Simulator\obj\Debug\net8.0\002-Traffic-Light-Simulator.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\002-Traffic-Light-Simulator\obj\Debug\net8.0\002-Traffic-Light-Simulator.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\002-Traffic-Light-Simulator\obj\Debug\net8.0\002-Traffic-Light-Simulator.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\002-Traffic-Light-Simulator\obj\Debug\net8.0\refint\002-Traffic-Light-Simulator.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\002-Traffic-Light-Simulator\obj\Debug\net8.0\002-Traffic-Light-Simulator.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\002-Traffic-Light-Simulator\obj\Debug\net8.0\002-Traffic-Light-Simulator.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\002-Traffic-Light-Simulator\obj\Debug\net8.0\ref\002-Traffic-Light-Simulator.dll

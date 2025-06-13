@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\004-Email-Validator\bin\Debug\net8.0\004-Email-Validator.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\004-Email-Validator\bin\Debug\net8.0\004-Email-Validator.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\004-Email-Validator\bin\Debug\net8.0\004-Email-Validator.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\004-Email-Validator\bin\Debug\net8.0\004-Email-Validator.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\004-Email-Validator\bin\Debug\net8.0\004-Email-Validator.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\004-Email-Validator\obj\Debug\net8.0\004-Email-Validator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\004-Email-Validator\obj\Debug\net8.0\004-Email-Validator.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\004-Email-Validator\obj\Debug\net8.0\004-Email-Validator.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\004-Email-Validator\obj\Debug\net8.0\004-Email-Validator.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\004-Email-Validator\obj\Debug\net8.0\004-Email-Validator.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\004-Email-Validator\obj\Debug\net8.0\004-Email-Validator.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\004-Email-Validator\obj\Debug\net8.0\refint\004-Email-Validator.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\004-Email-Validator\obj\Debug\net8.0\004-Email-Validator.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\004-Email-Validator\obj\Debug\net8.0\004-Email-Validator.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\004-Email-Validator\obj\Debug\net8.0\ref\004-Email-Validator.dll

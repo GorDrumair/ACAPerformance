@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\001-Day-Schedule-System\bin\Debug\net8.0\001-Day-Schedule-System.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\001-Day-Schedule-System\bin\Debug\net8.0\001-Day-Schedule-System.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\001-Day-Schedule-System\bin\Debug\net8.0\001-Day-Schedule-System.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\001-Day-Schedule-System\bin\Debug\net8.0\001-Day-Schedule-System.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\001-Day-Schedule-System\bin\Debug\net8.0\001-Day-Schedule-System.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\001-Day-Schedule-System\obj\Debug\net8.0\001-Day-Schedule-System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\001-Day-Schedule-System\obj\Debug\net8.0\001-Day-Schedule-System.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\001-Day-Schedule-System\obj\Debug\net8.0\001-Day-Schedule-System.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\001-Day-Schedule-System\obj\Debug\net8.0\001-Day-Schedule-System.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\001-Day-Schedule-System\obj\Debug\net8.0\001-Day-Schedule-System.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\001-Day-Schedule-System\obj\Debug\net8.0\001-Day-Schedule-System.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\001-Day-Schedule-System\obj\Debug\net8.0\refint\001-Day-Schedule-System.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\001-Day-Schedule-System\obj\Debug\net8.0\001-Day-Schedule-System.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\001-Day-Schedule-System\obj\Debug\net8.0\001-Day-Schedule-System.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Enum Homeworks\001-Day-Schedule-System\obj\Debug\net8.0\ref\001-Day-Schedule-System.dll

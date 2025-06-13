@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\003-Currency-Convertor\bin\Debug\net8.0\003-Currency-Convertor.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\003-Currency-Convertor\bin\Debug\net8.0\003-Currency-Convertor.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\003-Currency-Convertor\bin\Debug\net8.0\003-Currency-Convertor.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\003-Currency-Convertor\bin\Debug\net8.0\003-Currency-Convertor.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\003-Currency-Convertor\bin\Debug\net8.0\003-Currency-Convertor.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\003-Currency-Convertor\obj\Debug\net8.0\003-Currency-Convertor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\003-Currency-Convertor\obj\Debug\net8.0\003-Currency-Convertor.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\003-Currency-Convertor\obj\Debug\net8.0\003-Currency-Convertor.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\003-Currency-Convertor\obj\Debug\net8.0\003-Currency-Convertor.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\003-Currency-Convertor\obj\Debug\net8.0\003-Currency-Convertor.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\003-Currency-Convertor\obj\Debug\net8.0\003-Currency-Convertor.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\003-Currency-Convertor\obj\Debug\net8.0\refint\003-Currency-Convertor.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\003-Currency-Convertor\obj\Debug\net8.0\003-Currency-Convertor.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\003-Currency-Convertor\obj\Debug\net8.0\003-Currency-Convertor.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\003-Currency-Convertor\obj\Debug\net8.0\ref\003-Currency-Convertor.dll
