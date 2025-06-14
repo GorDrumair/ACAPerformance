@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\010-User-Profile\bin\Debug\net8.0\010-User-Profile.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\010-User-Profile\bin\Debug\net8.0\010-User-Profile.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\010-User-Profile\bin\Debug\net8.0\010-User-Profile.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\010-User-Profile\bin\Debug\net8.0\010-User-Profile.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\010-User-Profile\bin\Debug\net8.0\010-User-Profile.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\010-User-Profile\obj\Debug\net8.0\010-User-Profile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\010-User-Profile\obj\Debug\net8.0\010-User-Profile.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\010-User-Profile\obj\Debug\net8.0\010-User-Profile.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\010-User-Profile\obj\Debug\net8.0\010-User-Profile.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\010-User-Profile\obj\Debug\net8.0\010-User-Profile.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\010-User-Profile\obj\Debug\net8.0\010-User-Profile.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\010-User-Profile\obj\Debug\net8.0\refint\010-User-Profile.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\010-User-Profile\obj\Debug\net8.0\010-User-Profile.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\010-User-Profile\obj\Debug\net8.0\010-User-Profile.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\010-User-Profile\obj\Debug\net8.0\ref\010-User-Profile.dll

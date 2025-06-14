@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\008-Course-Enrollment\bin\Debug\net8.0\008-Course-Enrollment.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\008-Course-Enrollment\bin\Debug\net8.0\008-Course-Enrollment.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\008-Course-Enrollment\bin\Debug\net8.0\008-Course-Enrollment.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\008-Course-Enrollment\bin\Debug\net8.0\008-Course-Enrollment.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\008-Course-Enrollment\bin\Debug\net8.0\008-Course-Enrollment.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\008-Course-Enrollment\obj\Debug\net8.0\008-Course-Enrollment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\008-Course-Enrollment\obj\Debug\net8.0\008-Course-Enrollment.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\008-Course-Enrollment\obj\Debug\net8.0\008-Course-Enrollment.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\008-Course-Enrollment\obj\Debug\net8.0\008-Course-Enrollment.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\008-Course-Enrollment\obj\Debug\net8.0\008-Course-Enrollment.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\008-Course-Enrollment\obj\Debug\net8.0\008-Course-Enrollment.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\008-Course-Enrollment\obj\Debug\net8.0\refint\008-Course-Enrollment.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\008-Course-Enrollment\obj\Debug\net8.0\008-Course-Enrollment.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\008-Course-Enrollment\obj\Debug\net8.0\008-Course-Enrollment.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\008-Course-Enrollment\obj\Debug\net8.0\ref\008-Course-Enrollment.dll

@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\010-Invoice-Total\bin\Debug\net8.0\010-Invoice-Total.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\010-Invoice-Total\bin\Debug\net8.0\010-Invoice-Total.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\010-Invoice-Total\bin\Debug\net8.0\010-Invoice-Total.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\010-Invoice-Total\bin\Debug\net8.0\010-Invoice-Total.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\010-Invoice-Total\bin\Debug\net8.0\010-Invoice-Total.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\010-Invoice-Total\obj\Debug\net8.0\010-Invoice-Total.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\010-Invoice-Total\obj\Debug\net8.0\010-Invoice-Total.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\010-Invoice-Total\obj\Debug\net8.0\010-Invoice-Total.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\010-Invoice-Total\obj\Debug\net8.0\010-Invoice-Total.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\010-Invoice-Total\obj\Debug\net8.0\010-Invoice-Total.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\010-Invoice-Total\obj\Debug\net8.0\010-Invoice-Total.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\010-Invoice-Total\obj\Debug\net8.0\refint\010-Invoice-Total.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\010-Invoice-Total\obj\Debug\net8.0\010-Invoice-Total.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\010-Invoice-Total\obj\Debug\net8.0\010-Invoice-Total.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\010-Invoice-Total\obj\Debug\net8.0\ref\010-Invoice-Total.dll

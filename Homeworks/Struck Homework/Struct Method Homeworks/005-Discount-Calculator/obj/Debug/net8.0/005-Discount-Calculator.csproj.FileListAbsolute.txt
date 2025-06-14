@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\005-Discount-Calculator\bin\Debug\net8.0\005-Discount-Calculator.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\005-Discount-Calculator\bin\Debug\net8.0\005-Discount-Calculator.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\005-Discount-Calculator\bin\Debug\net8.0\005-Discount-Calculator.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\005-Discount-Calculator\bin\Debug\net8.0\005-Discount-Calculator.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\005-Discount-Calculator\bin\Debug\net8.0\005-Discount-Calculator.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\005-Discount-Calculator\obj\Debug\net8.0\005-Discount-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\005-Discount-Calculator\obj\Debug\net8.0\005-Discount-Calculator.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\005-Discount-Calculator\obj\Debug\net8.0\005-Discount-Calculator.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\005-Discount-Calculator\obj\Debug\net8.0\005-Discount-Calculator.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\005-Discount-Calculator\obj\Debug\net8.0\005-Discount-Calculator.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\005-Discount-Calculator\obj\Debug\net8.0\005-Discount-Calculator.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\005-Discount-Calculator\obj\Debug\net8.0\refint\005-Discount-Calculator.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\005-Discount-Calculator\obj\Debug\net8.0\005-Discount-Calculator.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\005-Discount-Calculator\obj\Debug\net8.0\005-Discount-Calculator.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\005-Discount-Calculator\obj\Debug\net8.0\ref\005-Discount-Calculator.dll

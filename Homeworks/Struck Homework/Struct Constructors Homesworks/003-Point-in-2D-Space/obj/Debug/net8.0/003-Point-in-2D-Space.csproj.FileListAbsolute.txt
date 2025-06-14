@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\003-Point-in-2D-Space\bin\Debug\net8.0\003-Point-in-2D-Space.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\003-Point-in-2D-Space\bin\Debug\net8.0\003-Point-in-2D-Space.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\003-Point-in-2D-Space\bin\Debug\net8.0\003-Point-in-2D-Space.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\003-Point-in-2D-Space\bin\Debug\net8.0\003-Point-in-2D-Space.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\003-Point-in-2D-Space\bin\Debug\net8.0\003-Point-in-2D-Space.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\003-Point-in-2D-Space\obj\Debug\net8.0\003-Point-in-2D-Space.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\003-Point-in-2D-Space\obj\Debug\net8.0\003-Point-in-2D-Space.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\003-Point-in-2D-Space\obj\Debug\net8.0\003-Point-in-2D-Space.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\003-Point-in-2D-Space\obj\Debug\net8.0\003-Point-in-2D-Space.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\003-Point-in-2D-Space\obj\Debug\net8.0\003-Point-in-2D-Space.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\003-Point-in-2D-Space\obj\Debug\net8.0\003-Point-in-2D-Space.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\003-Point-in-2D-Space\obj\Debug\net8.0\refint\003-Point-in-2D-Space.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\003-Point-in-2D-Space\obj\Debug\net8.0\003-Point-in-2D-Space.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\003-Point-in-2D-Space\obj\Debug\net8.0\003-Point-in-2D-Space.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\003-Point-in-2D-Space\obj\Debug\net8.0\ref\003-Point-in-2D-Space.dll

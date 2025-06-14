@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\007-Bank-Transaction\bin\Debug\net8.0\007-Bank-Transaction.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\007-Bank-Transaction\bin\Debug\net8.0\007-Bank-Transaction.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\007-Bank-Transaction\bin\Debug\net8.0\007-Bank-Transaction.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\007-Bank-Transaction\bin\Debug\net8.0\007-Bank-Transaction.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\007-Bank-Transaction\bin\Debug\net8.0\007-Bank-Transaction.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\007-Bank-Transaction\obj\Debug\net8.0\007-Bank-Transaction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\007-Bank-Transaction\obj\Debug\net8.0\007-Bank-Transaction.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\007-Bank-Transaction\obj\Debug\net8.0\007-Bank-Transaction.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\007-Bank-Transaction\obj\Debug\net8.0\007-Bank-Transaction.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\007-Bank-Transaction\obj\Debug\net8.0\007-Bank-Transaction.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\007-Bank-Transaction\obj\Debug\net8.0\007-Bank-Transaction.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\007-Bank-Transaction\obj\Debug\net8.0\refint\007-Bank-Transaction.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\007-Bank-Transaction\obj\Debug\net8.0\007-Bank-Transaction.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\007-Bank-Transaction\obj\Debug\net8.0\007-Bank-Transaction.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\007-Bank-Transaction\obj\Debug\net8.0\ref\007-Bank-Transaction.dll

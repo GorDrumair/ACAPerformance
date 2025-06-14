@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "010-User-Profile/1.0.0": {
+        "runtime": {
+          "010-User-Profile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "010-User-Profile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

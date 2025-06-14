@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\002-Rectagnle-Area-Calculator\bin\Debug\net8.0\002-Rectagnle-Area-Calculator.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\002-Rectagnle-Area-Calculator\bin\Debug\net8.0\002-Rectagnle-Area-Calculator.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\002-Rectagnle-Area-Calculator\bin\Debug\net8.0\002-Rectagnle-Area-Calculator.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\002-Rectagnle-Area-Calculator\bin\Debug\net8.0\002-Rectagnle-Area-Calculator.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\002-Rectagnle-Area-Calculator\bin\Debug\net8.0\002-Rectagnle-Area-Calculator.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\002-Rectagnle-Area-Calculator\obj\Debug\net8.0\002-Rectagnle-Area-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\002-Rectagnle-Area-Calculator\obj\Debug\net8.0\002-Rectagnle-Area-Calculator.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\002-Rectagnle-Area-Calculator\obj\Debug\net8.0\002-Rectagnle-Area-Calculator.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\002-Rectagnle-Area-Calculator\obj\Debug\net8.0\002-Rectagnle-Area-Calculator.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\002-Rectagnle-Area-Calculator\obj\Debug\net8.0\002-Rectagnle-Area-Calculator.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\002-Rectagnle-Area-Calculator\obj\Debug\net8.0\002-Rectagnle-Area-Calculator.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\002-Rectagnle-Area-Calculator\obj\Debug\net8.0\refint\002-Rectagnle-Area-Calculator.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\002-Rectagnle-Area-Calculator\obj\Debug\net8.0\002-Rectagnle-Area-Calculator.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\002-Rectagnle-Area-Calculator\obj\Debug\net8.0\002-Rectagnle-Area-Calculator.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\002-Rectagnle-Area-Calculator\obj\Debug\net8.0\ref\002-Rectagnle-Area-Calculator.dll

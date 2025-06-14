@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\006-Time-Interval\bin\Debug\net8.0\006-Time-Interval.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\006-Time-Interval\bin\Debug\net8.0\006-Time-Interval.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\006-Time-Interval\bin\Debug\net8.0\006-Time-Interval.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\006-Time-Interval\bin\Debug\net8.0\006-Time-Interval.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\006-Time-Interval\bin\Debug\net8.0\006-Time-Interval.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\006-Time-Interval\obj\Debug\net8.0\006-Time-Interval.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\006-Time-Interval\obj\Debug\net8.0\006-Time-Interval.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\006-Time-Interval\obj\Debug\net8.0\006-Time-Interval.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\006-Time-Interval\obj\Debug\net8.0\006-Time-Interval.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\006-Time-Interval\obj\Debug\net8.0\006-Time-Interval.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\006-Time-Interval\obj\Debug\net8.0\006-Time-Interval.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\006-Time-Interval\obj\Debug\net8.0\refint\006-Time-Interval.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\006-Time-Interval\obj\Debug\net8.0\006-Time-Interval.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\006-Time-Interval\obj\Debug\net8.0\006-Time-Interval.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\006-Time-Interval\obj\Debug\net8.0\ref\006-Time-Interval.dll

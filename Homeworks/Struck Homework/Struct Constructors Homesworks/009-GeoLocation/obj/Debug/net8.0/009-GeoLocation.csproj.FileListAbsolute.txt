@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\009-GeoLocation\bin\Debug\net8.0\009-GeoLocation.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\009-GeoLocation\bin\Debug\net8.0\009-GeoLocation.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\009-GeoLocation\bin\Debug\net8.0\009-GeoLocation.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\009-GeoLocation\bin\Debug\net8.0\009-GeoLocation.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\009-GeoLocation\bin\Debug\net8.0\009-GeoLocation.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\009-GeoLocation\obj\Debug\net8.0\009-GeoLocation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\009-GeoLocation\obj\Debug\net8.0\009-GeoLocation.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\009-GeoLocation\obj\Debug\net8.0\009-GeoLocation.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\009-GeoLocation\obj\Debug\net8.0\009-GeoLocation.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\009-GeoLocation\obj\Debug\net8.0\009-GeoLocation.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\009-GeoLocation\obj\Debug\net8.0\009-GeoLocation.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\009-GeoLocation\obj\Debug\net8.0\refint\009-GeoLocation.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\009-GeoLocation\obj\Debug\net8.0\009-GeoLocation.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\009-GeoLocation\obj\Debug\net8.0\009-GeoLocation.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\009-GeoLocation\obj\Debug\net8.0\ref\009-GeoLocation.dll

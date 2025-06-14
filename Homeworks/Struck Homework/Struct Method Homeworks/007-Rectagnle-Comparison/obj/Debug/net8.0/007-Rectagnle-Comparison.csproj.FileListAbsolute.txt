@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\007-Rectagnle-Comparison\bin\Debug\net8.0\007-Rectagnle-Comparison.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\007-Rectagnle-Comparison\bin\Debug\net8.0\007-Rectagnle-Comparison.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\007-Rectagnle-Comparison\bin\Debug\net8.0\007-Rectagnle-Comparison.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\007-Rectagnle-Comparison\bin\Debug\net8.0\007-Rectagnle-Comparison.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\007-Rectagnle-Comparison\bin\Debug\net8.0\007-Rectagnle-Comparison.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\007-Rectagnle-Comparison\obj\Debug\net8.0\007-Rectagnle-Comparison.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\007-Rectagnle-Comparison\obj\Debug\net8.0\007-Rectagnle-Comparison.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\007-Rectagnle-Comparison\obj\Debug\net8.0\007-Rectagnle-Comparison.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\007-Rectagnle-Comparison\obj\Debug\net8.0\007-Rectagnle-Comparison.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\007-Rectagnle-Comparison\obj\Debug\net8.0\007-Rectagnle-Comparison.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\007-Rectagnle-Comparison\obj\Debug\net8.0\007-Rectagnle-Comparison.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\007-Rectagnle-Comparison\obj\Debug\net8.0\refint\007-Rectagnle-Comparison.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\007-Rectagnle-Comparison\obj\Debug\net8.0\007-Rectagnle-Comparison.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\007-Rectagnle-Comparison\obj\Debug\net8.0\007-Rectagnle-Comparison.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\007-Rectagnle-Comparison\obj\Debug\net8.0\ref\007-Rectagnle-Comparison.dll

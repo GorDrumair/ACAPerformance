@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\004-Employee-Info\bin\Debug\net8.0\004-Employee-Info.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\004-Employee-Info\bin\Debug\net8.0\004-Employee-Info.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\004-Employee-Info\bin\Debug\net8.0\004-Employee-Info.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\004-Employee-Info\bin\Debug\net8.0\004-Employee-Info.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\004-Employee-Info\bin\Debug\net8.0\004-Employee-Info.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\004-Employee-Info\obj\Debug\net8.0\004-Employee-Info.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\004-Employee-Info\obj\Debug\net8.0\004-Employee-Info.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\004-Employee-Info\obj\Debug\net8.0\004-Employee-Info.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\004-Employee-Info\obj\Debug\net8.0\004-Employee-Info.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\004-Employee-Info\obj\Debug\net8.0\004-Employee-Info.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\004-Employee-Info\obj\Debug\net8.0\004-Employee-Info.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\004-Employee-Info\obj\Debug\net8.0\refint\004-Employee-Info.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\004-Employee-Info\obj\Debug\net8.0\004-Employee-Info.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\004-Employee-Info\obj\Debug\net8.0\004-Employee-Info.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\004-Employee-Info\obj\Debug\net8.0\ref\004-Employee-Info.dll

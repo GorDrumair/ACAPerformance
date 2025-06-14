@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\006-Gadget-Stock-Entry\bin\Debug\net8.0\006-Gadget-Stock-Entry.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\006-Gadget-Stock-Entry\bin\Debug\net8.0\006-Gadget-Stock-Entry.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\006-Gadget-Stock-Entry\bin\Debug\net8.0\006-Gadget-Stock-Entry.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\006-Gadget-Stock-Entry\bin\Debug\net8.0\006-Gadget-Stock-Entry.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\006-Gadget-Stock-Entry\bin\Debug\net8.0\006-Gadget-Stock-Entry.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\006-Gadget-Stock-Entry\obj\Debug\net8.0\006-Gadget-Stock-Entry.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\006-Gadget-Stock-Entry\obj\Debug\net8.0\006-Gadget-Stock-Entry.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\006-Gadget-Stock-Entry\obj\Debug\net8.0\006-Gadget-Stock-Entry.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\006-Gadget-Stock-Entry\obj\Debug\net8.0\006-Gadget-Stock-Entry.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\006-Gadget-Stock-Entry\obj\Debug\net8.0\006-Gadget-Stock-Entry.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\006-Gadget-Stock-Entry\obj\Debug\net8.0\006-Gadget-Stock-Entry.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\006-Gadget-Stock-Entry\obj\Debug\net8.0\refint\006-Gadget-Stock-Entry.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\006-Gadget-Stock-Entry\obj\Debug\net8.0\006-Gadget-Stock-Entry.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\006-Gadget-Stock-Entry\obj\Debug\net8.0\006-Gadget-Stock-Entry.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Constructors Homesworks\006-Gadget-Stock-Entry\obj\Debug\net8.0\ref\006-Gadget-Stock-Entry.dll

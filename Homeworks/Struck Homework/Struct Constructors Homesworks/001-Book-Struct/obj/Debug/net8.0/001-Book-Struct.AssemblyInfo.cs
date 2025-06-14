@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("001-Book-Struct")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d2f4a3c449f18a3e04db4757e3ec35e3628de81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56effa7cc0dc1847d4ca1c52aa9580b38f2f810c")]
 [assembly: System.Reflection.AssemblyProductAttribute("001-Book-Struct")]
 [assembly: System.Reflection.AssemblyTitleAttribute("001-Book-Struct")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

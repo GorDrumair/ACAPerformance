@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\009-Voting-Eligibility\bin\Debug\net8.0\009-Voting-Eligibility.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\009-Voting-Eligibility\bin\Debug\net8.0\009-Voting-Eligibility.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\009-Voting-Eligibility\bin\Debug\net8.0\009-Voting-Eligibility.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\009-Voting-Eligibility\bin\Debug\net8.0\009-Voting-Eligibility.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\009-Voting-Eligibility\bin\Debug\net8.0\009-Voting-Eligibility.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\009-Voting-Eligibility\obj\Debug\net8.0\009-Voting-Eligibility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\009-Voting-Eligibility\obj\Debug\net8.0\009-Voting-Eligibility.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\009-Voting-Eligibility\obj\Debug\net8.0\009-Voting-Eligibility.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\009-Voting-Eligibility\obj\Debug\net8.0\009-Voting-Eligibility.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\009-Voting-Eligibility\obj\Debug\net8.0\009-Voting-Eligibility.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\009-Voting-Eligibility\obj\Debug\net8.0\009-Voting-Eligibility.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\009-Voting-Eligibility\obj\Debug\net8.0\refint\009-Voting-Eligibility.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\009-Voting-Eligibility\obj\Debug\net8.0\009-Voting-Eligibility.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\009-Voting-Eligibility\obj\Debug\net8.0\009-Voting-Eligibility.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Struck Homework\Struct Method Homeworks\009-Voting-Eligibility\obj\Debug\net8.0\ref\009-Voting-Eligibility.dll

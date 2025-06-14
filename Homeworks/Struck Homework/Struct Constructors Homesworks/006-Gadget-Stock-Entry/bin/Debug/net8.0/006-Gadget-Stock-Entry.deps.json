@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "006-Gadget-Stock-Entry/1.0.0": {
+        "runtime": {
+          "006-Gadget-Stock-Entry.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "006-Gadget-Stock-Entry/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
