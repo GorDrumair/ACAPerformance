@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Practice\Structs\Struct practice tasks\bin\Debug\net8.0\Struct practice tasks.exe
+D:\Just Coding\ACA\ACAPerformance\Practice\Structs\Struct practice tasks\bin\Debug\net8.0\Struct practice tasks.deps.json
+D:\Just Coding\ACA\ACAPerformance\Practice\Structs\Struct practice tasks\bin\Debug\net8.0\Struct practice tasks.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Practice\Structs\Struct practice tasks\bin\Debug\net8.0\Struct practice tasks.dll
+D:\Just Coding\ACA\ACAPerformance\Practice\Structs\Struct practice tasks\bin\Debug\net8.0\Struct practice tasks.pdb
+D:\Just Coding\ACA\ACAPerformance\Practice\Structs\Struct practice tasks\obj\Debug\net8.0\Struct practice tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Practice\Structs\Struct practice tasks\obj\Debug\net8.0\Struct practice tasks.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Practice\Structs\Struct practice tasks\obj\Debug\net8.0\Struct practice tasks.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Practice\Structs\Struct practice tasks\obj\Debug\net8.0\Struct practice tasks.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Practice\Structs\Struct practice tasks\obj\Debug\net8.0\Struct practice tasks.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Practice\Structs\Struct practice tasks\obj\Debug\net8.0\Struct practice tasks.dll
+D:\Just Coding\ACA\ACAPerformance\Practice\Structs\Struct practice tasks\obj\Debug\net8.0\refint\Struct practice tasks.dll
+D:\Just Coding\ACA\ACAPerformance\Practice\Structs\Struct practice tasks\obj\Debug\net8.0\Struct practice tasks.pdb
+D:\Just Coding\ACA\ACAPerformance\Practice\Structs\Struct practice tasks\obj\Debug\net8.0\Struct practice tasks.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Practice\Structs\Struct practice tasks\obj\Debug\net8.0\ref\Struct practice tasks.dll

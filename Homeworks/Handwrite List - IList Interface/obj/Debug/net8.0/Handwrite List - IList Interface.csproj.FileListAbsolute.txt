@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Handwrite List - IList Interface\bin\Debug\net8.0\Handwrite List - IList Interface.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Handwrite List - IList Interface\bin\Debug\net8.0\Handwrite List - IList Interface.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Handwrite List - IList Interface\bin\Debug\net8.0\Handwrite List - IList Interface.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Handwrite List - IList Interface\bin\Debug\net8.0\Handwrite List - IList Interface.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Handwrite List - IList Interface\bin\Debug\net8.0\Handwrite List - IList Interface.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Handwrite List - IList Interface\obj\Debug\net8.0\Handwrite List - IList Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Handwrite List - IList Interface\obj\Debug\net8.0\Handwrite List - IList Interface.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Handwrite List - IList Interface\obj\Debug\net8.0\Handwrite List - IList Interface.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Handwrite List - IList Interface\obj\Debug\net8.0\Handwrite List - IList Interface.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Handwrite List - IList Interface\obj\Debug\net8.0\Handwrite List - IList Interface.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Handwrite List - IList Interface\obj\Debug\net8.0\Handwrite List - IList Interface.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Handwrite List - IList Interface\obj\Debug\net8.0\refint\Handwrite List - IList Interface.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Handwrite List - IList Interface\obj\Debug\net8.0\Handwrite List - IList Interface.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Handwrite List - IList Interface\obj\Debug\net8.0\Handwrite List - IList Interface.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Handwrite List - IList Interface\obj\Debug\net8.0\ref\Handwrite List - IList Interface.dll
