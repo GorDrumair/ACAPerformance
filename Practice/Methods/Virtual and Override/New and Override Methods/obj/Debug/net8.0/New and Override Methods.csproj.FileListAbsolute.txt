@@ -1,0 +1,15 @@
+d:\Just Coding\ACA\ACAPerformance\Practice\Methods\Virtual and Override\New and Override Methods\bin\Debug\net8.0\New and Override Methods.exe
+d:\Just Coding\ACA\ACAPerformance\Practice\Methods\Virtual and Override\New and Override Methods\bin\Debug\net8.0\New and Override Methods.deps.json
+d:\Just Coding\ACA\ACAPerformance\Practice\Methods\Virtual and Override\New and Override Methods\bin\Debug\net8.0\New and Override Methods.runtimeconfig.json
+d:\Just Coding\ACA\ACAPerformance\Practice\Methods\Virtual and Override\New and Override Methods\bin\Debug\net8.0\New and Override Methods.dll
+d:\Just Coding\ACA\ACAPerformance\Practice\Methods\Virtual and Override\New and Override Methods\bin\Debug\net8.0\New and Override Methods.pdb
+d:\Just Coding\ACA\ACAPerformance\Practice\Methods\Virtual and Override\New and Override Methods\obj\Debug\net8.0\New and Override Methods.GeneratedMSBuildEditorConfig.editorconfig
+d:\Just Coding\ACA\ACAPerformance\Practice\Methods\Virtual and Override\New and Override Methods\obj\Debug\net8.0\New and Override Methods.AssemblyInfoInputs.cache
+d:\Just Coding\ACA\ACAPerformance\Practice\Methods\Virtual and Override\New and Override Methods\obj\Debug\net8.0\New and Override Methods.AssemblyInfo.cs
+d:\Just Coding\ACA\ACAPerformance\Practice\Methods\Virtual and Override\New and Override Methods\obj\Debug\net8.0\New and Override Methods.csproj.CoreCompileInputs.cache
+d:\Just Coding\ACA\ACAPerformance\Practice\Methods\Virtual and Override\New and Override Methods\obj\Debug\net8.0\New and Override Methods.sourcelink.json
+d:\Just Coding\ACA\ACAPerformance\Practice\Methods\Virtual and Override\New and Override Methods\obj\Debug\net8.0\New and Override Methods.dll
+d:\Just Coding\ACA\ACAPerformance\Practice\Methods\Virtual and Override\New and Override Methods\obj\Debug\net8.0\refint\New and Override Methods.dll
+d:\Just Coding\ACA\ACAPerformance\Practice\Methods\Virtual and Override\New and Override Methods\obj\Debug\net8.0\New and Override Methods.pdb
+d:\Just Coding\ACA\ACAPerformance\Practice\Methods\Virtual and Override\New and Override Methods\obj\Debug\net8.0\New and Override Methods.genruntimeconfig.cache
+d:\Just Coding\ACA\ACAPerformance\Practice\Methods\Virtual and Override\New and Override Methods\obj\Debug\net8.0\ref\New and Override Methods.dll

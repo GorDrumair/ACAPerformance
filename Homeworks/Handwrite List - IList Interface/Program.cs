@@ -22,6 +22,7 @@ class Program
     }
 }
 
+
 class Zoo<T> : IEnumerable<T>
 {
     private MyList<T> _animals;
@@ -34,8 +35,8 @@ class Zoo<T> : IEnumerable<T>
     {
         return GetEnumerator();
     }
- 
-    
+
+
 }
 
 class Animal
@@ -71,7 +72,7 @@ class Cat : Animal
 
 
 
-
+// List Inteface implementation
 
 
 class MyList<T> : IList<T>
@@ -101,7 +102,7 @@ class MyList<T> : IList<T>
             return (_count - 1);
         } 
         return -1;
-    }
+    } 
 
     public void Clear()
     {

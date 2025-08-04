@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "New and Override Methods/1.0.0": {
+        "runtime": {
+          "New and Override Methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "New and Override Methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Advanced Zoo System\bin\Debug\net8.0\Advanced Zoo System.exe
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Advanced Zoo System\bin\Debug\net8.0\Advanced Zoo System.deps.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Advanced Zoo System\bin\Debug\net8.0\Advanced Zoo System.runtimeconfig.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Advanced Zoo System\bin\Debug\net8.0\Advanced Zoo System.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Advanced Zoo System\bin\Debug\net8.0\Advanced Zoo System.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Advanced Zoo System\obj\Debug\net8.0\Advanced Zoo System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Advanced Zoo System\obj\Debug\net8.0\Advanced Zoo System.AssemblyInfoInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Advanced Zoo System\obj\Debug\net8.0\Advanced Zoo System.AssemblyInfo.cs
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Advanced Zoo System\obj\Debug\net8.0\Advanced Zoo System.csproj.CoreCompileInputs.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Advanced Zoo System\obj\Debug\net8.0\Advanced Zoo System.sourcelink.json
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Advanced Zoo System\obj\Debug\net8.0\Advanced Zoo System.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Advanced Zoo System\obj\Debug\net8.0\refint\Advanced Zoo System.dll
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Advanced Zoo System\obj\Debug\net8.0\Advanced Zoo System.pdb
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Advanced Zoo System\obj\Debug\net8.0\Advanced Zoo System.genruntimeconfig.cache
+D:\Just Coding\ACA\ACAPerformance\Homeworks\Advanced Zoo System\obj\Debug\net8.0\ref\Advanced Zoo System.dll
